@@ -1,0 +1,24 @@
+body{
+    background-color:rgb(50,60,50);
+    text-align:center;
+    color:rgb(155,200,155);
+    font-family:'Roboto';
+    font-size: 1.5rem;
+}
+h1{
+    background-color: rgb(30,40,30);
+    font-size: 1.75rem;
+}
+ul{
+    display:flex;
+    justify-content: center;
+    font-size:1.25rem;
+}
+li{
+    border-radius:25px;
+    background-color:rgb(35,45,35);
+}
+p{
+    margin-left:25%;
+    width:50%; 
+}
